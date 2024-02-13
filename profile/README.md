@@ -13,4 +13,4 @@ Those are the projects we developed, in chronological order:
 - **ANAWS [QI](https://github.com/PuffoTrillionarioGonePublic/ANAWS-QI) & [SDN](https://github.com/PuffoTrillionarioGonePublic/ANAWS-SDN)**: projects for the quantum internet and software defined networking parts of the *advanced network architectures and wireless systems* course, using respectively `netsquid` and `floodlight` + `gns3`
 - **[DSMT-Project](https://github.com/PuffoTrillionarioGonePublic/DSMT-Project)**: project for the *distributed systems and middleware technologies* course, using `raft with erlang` and `spring boot`
 - **[IS-Project](https://github.com/PuffoTrillionarioGonePublic/IS-Project)**: project for the *intelligent systems* course, using `tensorflow`
-- **[MASSS-Project](https://github.com/PuffoTrillionarioGonePublic/MASSS-Project)**: project for the *mobile and social sensing systems* course, using `kotlin` + `Jetpack Compose`
+- **[MASSS-Project](https://github.com/PuffoTrillionarioGonePublic/MASSS-Project)**: project for the *mobile and social sensing systems* course, using `kotlin` + `jetpack compose`
